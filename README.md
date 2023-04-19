@@ -5,7 +5,7 @@ Selected dataset is Dry Bean dataset download from <a href="https://archive.ics.
 Images of 13,611 grains of 7 different registered dry beans were taken with a high-resolution camera.Seven different types of dry beans were used in this research, taking into account the features such as form, shape, type, and structure by the market situation.
 
 # Basic Data Analytics
-Some basic Analysis is done on the dataset.
+Some basic Analysis is done on the dataset. I have used python for data analysis as Python has a large ecosystem of libraries for data analysis, including NumPy, Pandas, Matplotlib, and Scikit-learn. 
 ## 1. Datatypes of every column of the dataset: 
 The datatypes of attributes is examined and is plotted to depict the variations among columns based on datatypes. <br>
 Here 0.5 means that data is numerical and 0 means it is categorical data. <br>
