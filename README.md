@@ -18,7 +18,14 @@ The distribution of seven classes present in the dataset can be analysed by view
 <img src="https://user-images.githubusercontent.com/100415671/233079152-23a06738-f603-4fd1-ae64-c9be3c867ec7.png" width="400">
 
 ## 3. Relationship between roundness and area with the classes(types of beans): 
+Analysing the relationship by plotting graphs as it helps to analyse better through visual representation. <br>
 <img src="https://user-images.githubusercontent.com/100415671/233080110-9b83214a-5ec5-47c3-9def-8a17ca38a2c6.png" width="400"> <img src="https://user-images.githubusercontent.com/100415671/233080132-d8913eb0-dc6e-488e-a206-39ca01043b6a.png" width="550">
+
+## 4. Correlation between attributes of the data:
+Analysing correlations and then removing the columns which are highly correlated with another. <br>
+<img src="https://user-images.githubusercontent.com/100415671/233081294-9db62d29-8946-4f47-8724-863591641a10.png" width="550">
+
+
 
 
 
