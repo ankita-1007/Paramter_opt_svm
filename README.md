@@ -8,7 +8,7 @@ Images of 13,611 grains of 7 different registered dry beans were taken with a hi
 Some basic Analysis is done on the dataset.
 ## 1. Datatypes of every column of the dataset: 
 The datatypes of attributes is examined and is plotted to depict the variations among columns based on datatypes. <br>
-<img src="https://user-images.githubusercontent.com/100415671/233077815-66f89574-2e28-464e-943f-c145dec42edb.png" width="40">
+<img src="https://user-images.githubusercontent.com/100415671/233077815-66f89574-2e28-464e-943f-c145dec42edb.png" width="120">
 
 
 
