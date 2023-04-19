@@ -15,6 +15,6 @@ Here 0.5 means that data is numerical and 0 means it is categorical data. <br>
 
 ## 2. Percentage of every class present in dataset: 
 The distribution of seven classes present in the dataset can be analysed by viewing their percentage in the data. <br>
-<img src="https://user-images.githubusercontent.com/100415671/233079152-23a06738-f603-4fd1-ae64-c9be3c867ec7.png" width="400")
+<img src="https://user-images.githubusercontent.com/100415671/233079152-23a06738-f603-4fd1-ae64-c9be3c867ec7.png" width="400">
 
 
