@@ -34,7 +34,9 @@ Analysing correlations and then removing the columns which are highly correlated
 ## The resulting table for the selected dataset: 
 <img src="https://user-images.githubusercontent.com/100415671/233085051-2b1e41b3-c079-40c8-b70c-868a3877e764.png" width="500"> <br>
 
-# Here as you can see Sample 3rd has the highest accuracy, so we will be plotting a graph for sample 3. 
+Here as you can see Sample 3rd has the highest accuracy, so we will be plotting a graph for sample 3. <br>
+<img src="https://user-images.githubusercontent.com/100415671/233085937-80e4e16d-cc1d-4e27-8d3d-ed69d1a5cb71.png" width="400">
+
 
 
 
