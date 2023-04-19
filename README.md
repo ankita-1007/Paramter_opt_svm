@@ -23,7 +23,7 @@ Analysing the relationship by plotting graphs as it helps to analyse better thro
 
 ## 4. Correlation between attributes of the data:
 Analysing correlations and then removing the columns which are highly correlated with another. <br>
-<img src="https://user-images.githubusercontent.com/100415671/233081294-9db62d29-8946-4f47-8724-863591641a10.png" width="550">
+<img src="https://user-images.githubusercontent.com/100415671/233081294-9db62d29-8946-4f47-8724-863591641a10.png" width="600">
 
 
 
