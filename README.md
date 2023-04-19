@@ -25,6 +25,11 @@ Analysing the relationship by plotting graphs as it helps to analyse better thro
 Analysing correlations and then removing the columns which are highly correlated with another. <br>
 <img src="https://user-images.githubusercontent.com/100415671/233081294-9db62d29-8946-4f47-8724-863591641a10.png" width="600">
 
+## 5. Mean values of ShapeFactor1 and ShapeFactor2 of various classes:
+Visualizing how does shapefactors determine class. DERMASON has highest average value of Shapefactor1 and BOMBAY the least. <br>
+<img src="https://user-images.githubusercontent.com/100415671/233087959-e88a362c-2392-4d8a-90d5-edb01dabce81.png" width="500">
+
+
 # SVM Optimisation
 1. In Support Vector Machines (SVM), there are three parameters to consider: kernel, Nu, and Epsilon. To achieve the highest accuracy, we will optimize these parameters using randomization techniques. <br>
 2. To evaluate the performance of our algorithm, we will first take 10 samples from our dataset and split each into a training set and a test set.
