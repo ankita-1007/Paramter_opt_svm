@@ -25,6 +25,14 @@ Analysing the relationship by plotting graphs as it helps to analyse better thro
 Analysing correlations and then removing the columns which are highly correlated with another. <br>
 <img src="https://user-images.githubusercontent.com/100415671/233081294-9db62d29-8946-4f47-8724-863591641a10.png" width="600">
 
+# SVM Optimisation
+1. In Support Vector Machines (SVM), there are three parameters to consider: kernel, Nu, and Epsilon. To achieve the highest accuracy, we will optimize these parameters using randomization techniques. <br>
+2. To evaluate the performance of our algorithm, we will first take 10 samples from our dataset and split each into a training set and a test set.
+3. Next, we will apply our algorithm to each sample for 1000 iterations and record the best accuracy, kernel, and Nu in a table for each sample. 
+4. Finally, we will create a graph that plots accuracy versus iterations for the sample that achieved the highest accuracy.
+
+
+
 
 
 
