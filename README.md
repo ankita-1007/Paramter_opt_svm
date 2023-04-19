@@ -31,6 +31,10 @@ Analysing correlations and then removing the columns which are highly correlated
 3. Next, we will apply our algorithm to each sample for 1000 iterations and record the best accuracy, kernel, and Nu in a table for each sample. 
 4. Finally, we will create a graph that plots accuracy versus iterations for the sample that achieved the highest accuracy.
 
+## The resulting table for the selected dataset: 
+<img src="https://user-images.githubusercontent.com/100415671/233085051-2b1e41b3-c079-40c8-b70c-868a3877e764.png" width="500">
+
+
 
 
 
