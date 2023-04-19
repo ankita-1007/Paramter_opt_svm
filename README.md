@@ -32,7 +32,9 @@ Analysing correlations and then removing the columns which are highly correlated
 4. Finally, we will create a graph that plots accuracy versus iterations for the sample that achieved the highest accuracy.
 
 ## The resulting table for the selected dataset: 
-<img src="https://user-images.githubusercontent.com/100415671/233085051-2b1e41b3-c079-40c8-b70c-868a3877e764.png" width="500">
+<img src="https://user-images.githubusercontent.com/100415671/233085051-2b1e41b3-c079-40c8-b70c-868a3877e764.png" width="500"> <br>
+
+# Here as you can see Sample 3rd has the highest accuracy, so we will be plotting a graph for sample 3. 
 
 
 
